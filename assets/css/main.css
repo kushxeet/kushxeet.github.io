@@ -1984,7 +1984,6 @@ input, select, textarea {
 				left: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/shadow.png");
 			}
 
 			.wrapper .title:after {
@@ -1998,7 +1997,6 @@ input, select, textarea {
 				right: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/shadow.png");
 			}
 
 		.wrapper.style1 {
