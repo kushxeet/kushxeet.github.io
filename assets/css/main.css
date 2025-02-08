@@ -2087,6 +2087,7 @@ input, select, textarea {
 		text-align: center;
 		position: relative;
 		top: 1.5em;
+		background-color: #e5b942;
 	}
 
 		#logo h1 {
@@ -2116,6 +2117,7 @@ input, select, textarea {
 		left: 0;
 		width: 100%;
 		text-align: center;
+		background-color: #e5b942;
 	}
 
 		#nav > ul {
