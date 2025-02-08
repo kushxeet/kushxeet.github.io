@@ -2093,8 +2093,6 @@ input, select, textarea {
 		border-radius: 0.35em;
 		box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 		background-size: contain;
-		border-top: solid 1px rgb(225, 6, 6);
-		line-height: 3em;
 	}
 
 		#logo h1 {
