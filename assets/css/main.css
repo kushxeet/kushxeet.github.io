@@ -2062,7 +2062,7 @@ input, select, textarea {
 		position: relative;
 		height: 24em;
 		background-image: url("../../images/clubmoss.JPG") center center;
-		background-size: cover;
+		background-size: contain;
 		padding: 0;
 	}
 
