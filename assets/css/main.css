@@ -2117,7 +2117,12 @@ input, select, textarea {
 		left: 0;
 		width: 100%;
 		text-align: center;
-		background-color: #e5b942;
+		background: #e5b942 url("images/overlay.png");
+		background-color: #e5b942(44, 50, 63, 0.925);
+		padding: 1.25em 1em 1.25em 1em;
+		border-radius: 0.35em;
+		box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+		background-color: ;
 		background-size: cover;
 		padding: 0%;
 	}
