@@ -1961,7 +1961,7 @@ input, select, textarea {
 		.wrapper .title {
 			position: left;
 			top: 0;
-			left: 0%;
+			left: 50%;
 			text-align: center;
 			text-transform: uppercase;
 			display: block;
