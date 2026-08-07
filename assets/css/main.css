@@ -1959,7 +1959,7 @@ input, select, textarea {
 	}
 
 		.wrapper .title {
-			position: left;
+			position: relative;
 			top: 0;
 			left: 50%;
 			text-align: center;
