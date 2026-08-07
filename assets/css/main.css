@@ -1954,14 +1954,14 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		position: left;
+		position: relative;
 		padding: 6em 0 9em 0;
 	}
 
 		.wrapper .title {
-			position: absolute;
+			position: left;
 			top: 0;
-			left: 50%;
+			left: 0%;
 			text-align: center;
 			text-transform: uppercase;
 			display: block;
