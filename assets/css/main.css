@@ -1,4 +1,4 @@
-<!-- THIS IS THE CSS !-->
+/*-- THIS IS THE CSS */
             /* user styles */
 
             /* styles are what change the color and sizes of stuff on your site. */
@@ -102,7 +102,7 @@
                 /* this is only for a background image! */
                 /* if you want to put images IN the header, 
       you can add them directly to the <div id="header"></div> element! */
-                background-image:;
+               
                 background-size: 100%;
             }
 
