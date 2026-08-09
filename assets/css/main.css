@@ -131,10 +131,12 @@
         display: flex;
         flex-wrap: wrap;
         padding: 0 4px;
+        background-color: #5e4e8c;
+        color: #ffffff;
         }
 
 
-    .column {/* Create four equal columns that sits next to each other */
+    .column {/* Create 3 equal columns that sits next to each other */
             flex: 33%;
             max-width: 33%;
             padding: 4px 4px;
@@ -143,6 +145,7 @@
     .column img {
                  margin-top: 8px;
                 vertical-align: middle;
+                alig
                 width: 225px;
                 }
 
