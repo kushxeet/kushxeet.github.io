@@ -110,7 +110,7 @@
                 }
     .extra {
             background-color: #5e4e8c;
-            color: #13092D;
+            color: #ffffff;
             flex: 1;
             padding: 20px;
             order:2; /*The "order" value tells the CSS the order in which to display them.*/
