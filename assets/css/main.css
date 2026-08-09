@@ -9,6 +9,7 @@
         margin: 0;
         background-image: url(images/tile.png);
         background-repeat: repeat;
+        background-position: center;
         color: #073a5f;
         }
     
