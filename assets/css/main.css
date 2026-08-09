@@ -151,6 +151,19 @@
                 max-width: fit-content;
                 }
 
+    .fakeimg {    /* Fake image */
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+    }
+
+    .card {/* Add a card effect for articles */
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    }
+
+
 /* ----BELOW THIS POINT IS MEDIA QUERY---- */
 
 /* so you wanna change the width of your page? by default, the container width is 900px.
@@ -215,4 +228,4 @@ in order to keep things responsive, take your new height, and then subtrack it b
         #navbar ul {
                     flex-wrap: wrap;
                     }
-            }  
+            }
