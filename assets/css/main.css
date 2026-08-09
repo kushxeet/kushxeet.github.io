@@ -124,6 +124,7 @@
     .box {/* this is just a cool box, it's the darker colored one */
             background-color: #13092D;
             color: #bb6fbd;
+            border-radius: 25px;
             border: 1px solid #bb6fbd;
             padding: 5px;
             }
@@ -142,7 +143,7 @@
     .card {/* Add a card effect for articles */
             background-color: palegoldenrod;
             border-radius: 25px;
-            border: 1px solid #bb6fbd;
+            border: 2px solid #bb6fbd;
             color:#073a5f;
             padding: 20px;
             margin-top: 20px;
