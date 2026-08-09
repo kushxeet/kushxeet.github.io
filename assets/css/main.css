@@ -145,6 +145,12 @@
     margin-top: 20px;
     }
 
+    .image-container {
+                        display: flex;
+                        justify-content: center; /* Horizontally centers the image */
+                        align-items: center;     /* Vertically centers the image */
+                        }
+
 
 /* ----BELOW THIS POINT IS MEDIA QUERY---- */
 
