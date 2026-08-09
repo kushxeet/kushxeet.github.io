@@ -39,7 +39,7 @@
             font-size: 25px;
             }
     strong { /* this styles bold text */
-            color: #ED64F5;
+            color: #bb6fbd;
             }
 
 /* ----IDs----*/
@@ -52,7 +52,7 @@
     /* if you want something (like the banner) to be Wider than the other elements, you will need to move that div outside of the container */
     
     #container a {/*for all links on your page EXCEPT for the navigation */
-                color: #ED64F5;
+                color: #bb6fbd;
                 font-weight: bold;
                 /* if you want to remove the underline you can add a line below here that says: text-decoration:none; */
                 }
@@ -92,7 +92,7 @@
                 }
         
     #navbar li a { /* navigation links*/
-                color: #ED64F5; /* navbar text color */
+                color: #bb6fbd; /* navbar text color */
                 font-weight: 800;
                 text-decoration: none; /* this removes the underline */
                 }
@@ -123,7 +123,7 @@
     .box {/* this is just a cool box, it's the darker colored one */
             background-color: #13092D;
             color: palegoldenrod;
-            border: 1px solid #ED64F5;
+            border: 1px solid #bb6fbd;
             padding: 10px;
             }
 
@@ -167,7 +167,7 @@ in order to keep things responsive, take your new height, and then subtrack it b
 
         .column {/* Responsive layout - makes a two column-layout instead of four columns */
                 flex: 50%;
-                ax-width: 50%;
+                max-width: 50%;
                 }
 
         main {
