@@ -120,6 +120,7 @@
            
     .box {/* this is just a cool box, it's the darker colored one */
             background-color: #13092D;
+            color: palegoldenrod;
             border: 1px solid #ED64F5;
             padding: 10px;
             }
