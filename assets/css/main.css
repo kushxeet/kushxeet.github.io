@@ -146,7 +146,7 @@
                  margin-top: 8px;
                 vertical-align: middle;
                 alig
-                width: 225px;
+                max-width: 300px;
                 }
 
 /* ----BELOW THIS POINT IS MEDIA QUERY---- */
