@@ -134,16 +134,16 @@
         }
 
     .fakeimg {    /* Fake image */
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
-    }
+                background-color: #aaa;
+                width: 100%;
+                padding: 20px;
+                }
 
     .card {/* Add a card effect for articles */
-    background-color: white;
-    padding: 20px;
-    margin-top: 20px;
-    }
+            background-color: white;
+            padding: 20px;
+            margin-top: 20px;
+            }
 
     .image-container {
                         display: flex;
