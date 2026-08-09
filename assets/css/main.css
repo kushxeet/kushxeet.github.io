@@ -72,9 +72,7 @@
 
 
             /* the "container" is what wraps your entire website */
-            /* if you want something (like the header) to be Wider than
-    the other elements, you will need to move that div outside
-    of the container */
+            /* if you want something (like the header) to be Wider than the other elements, you will need to move that div outside of the container */
             #container {
                 max-width: 900px;
                 /* this is the width of your layout! */
@@ -99,6 +97,7 @@
                 background-color: #5e4e8c;
                 /* header color here! */
                 height: 150px;
+                background-image: url(images\Website Header.png);
                 /* this is only for a background image! */
                 /* if you want to put images IN the header, 
       you can add them directly to the <div id="header"></div> element! */
