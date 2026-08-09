@@ -1,19 +1,4 @@
-/*-- THIS IS THE CSS */
-            /* user styles */
 
-            /* styles are what change the color and sizes of stuff on your site. */
-
-            /* these are variables that are being used in the code 
-			these tended to confuse some people, so I only kept 
-			the images as variables */
-
-            :root {
-                --header-image: 
-                --body-bg-image: url('https://sadhost.neocities.org/images/tiles/purplesky.gif');
-
-                /* colors */
-                --content: #ffffff;
-            }
 
             /* if you have the URL of a font, you can set it below */
             /* feel free to delete this if it's not your vibe */
