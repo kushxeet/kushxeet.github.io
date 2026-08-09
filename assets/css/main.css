@@ -48,6 +48,8 @@
                 max-width: 900px; /* this is the width of your layout! */
                 /* if you change the above value, scroll to the bottom and change the media query according to the comment! */
                 margin: 0 auto; /* this centers the entire page */
+                border: 2px;
+                border-color: #13092D;
                 }
     /* if you want something (like the banner) to be Wider than the other elements, you will need to move that div outside of the container */
     
