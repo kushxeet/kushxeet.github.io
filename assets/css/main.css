@@ -28,12 +28,15 @@
             font-size: smaller;
             }
 
-    h1, h2, h3 { /*headers */
-                color: #ED64F5;
-                }
+    /*headers */
 
     h1 {
+        color:#c05d52;
         font-size: 25px;
+        }
+    h2 {
+        color:#56a49d
+        font-size: 20px;
         }
 
     strong { /* this styles bold text */
