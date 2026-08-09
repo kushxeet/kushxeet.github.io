@@ -115,6 +115,7 @@
             background-color: #5e4e8c;
             color: #ffffff;
             flex: 1;
+            max-width: 900px;
             padding: 20px;
             order:2; /*The "order" value tells the CSS the order in which to display them.*/
             }
