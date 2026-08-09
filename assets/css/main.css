@@ -34,8 +34,9 @@
         color:#c05d52;
         font-size: 25px;
         }
-    h1.extra {
-            color:#56a49d
+    h2 {
+            color:#56a49d;
+            font-size: 25px;
             }
     strong { /* this styles bold text */
             color: #ED64F5;
