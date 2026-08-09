@@ -27,6 +27,7 @@
             height: 120px;
             padding: 10px;
             text-align: center; /* this centers the footer text */
+            font-size: smaller;
             }
 
     h1, h2, h3 { /*headers */
