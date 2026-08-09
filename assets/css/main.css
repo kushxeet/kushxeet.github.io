@@ -133,12 +133,13 @@
         padding: 0 4px;
         background-color: #5e4e8c;
         color: #ffffff;
+        justify-content: center;
         }
 
 
     .column {/* Create 3 equal columns that sits next to each other */
-            flex: 33%;
-            max-width: 33%;
+            flex: 3fr;
+            max-width: 3fr;
             padding: 4px 4px;
             }
 
