@@ -13,6 +13,7 @@
     
     aside { /*sidebar*/
             background-color: #241445;
+            color: palegoldenrod;
             width: 200px;
             padding: 20px;
             font-size: smaller; /* this makes the sidebar text slightly smaller */
@@ -122,7 +123,7 @@
            
     .box {/* this is just a cool box, it's the darker colored one */
             background-color: #13092D;
-            color: palegoldenrod;
+            color: #bb6fbd;
             border: 1px solid #bb6fbd;
             padding: 10px;
             }
