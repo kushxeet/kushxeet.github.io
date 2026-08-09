@@ -1,32 +1,25 @@
-  
-            body {
-                font-family: 'Courier New', Courier, monospace;
-                margin: 0;
-                background-color: #c60e55;
-                color: #073a5f;
-            }
+/* universal formatting */
+    * {
+        box-sizing: border-box;
+        }
 
-            * {
-                box-sizing: border-box;
-            }
+/* body = default and background */
+  body {
+        font-family: 'Courier New', Courier, monospace;
+        margin: 0;
+        background-color: #c60e55;
+        color: #073a5f;
+        }
 
-            /* below this line is CSS for the layout */
-
-            /* this is a CSS comment
-    to uncomment a line of CSS, remove the * and the /
-    before and after the text */
-
-
-            /* the "container" is what wraps your entire website */
-            /* if you want something (like the header) to be Wider than the other elements, you will need to move that div outside of the container */
-            #container {
+/* the "container" is what wraps your entire website */
+/* if you want something (like the banner) to be Wider than the other elements, you will need to move that div outside of the container */
+    #container {
                 max-width: 900px;
                 /* this is the width of your layout! */
-                /* if you change the above value, scroll to the bottom
-      and change the media query according to the comment! */
+                /* if you change the above value, scroll to the bottom and change the media query according to the comment! */
                 margin: 0 auto;
                 /* this centers the entire page */
-            }
+                }
 
             /* the area below is for all links on your page
     EXCEPT for the navigation */
@@ -157,25 +150,12 @@
                 padding: 10px;
             }
 
-            /* CSS for extras */
 
-            #topBar {
-                width: 100%;
-                height: 30px;
-                padding: 10px;
-                font-size: smaller;
-                background-color: #13092D;
-            }
+/* ----BELOW THIS POINT IS MEDIA QUERY---- */
 
-
-            /* BELOW THIS POINT IS MEDIA QUERY */
-
-            /* so you wanna change the width of your page? 
-    by default, the container width is 900px.
-    in order to keep things responsive, take your new height,
-    and then subtrack it by 100. use this new number as the 
-    "max-width" value below
-    */
+/* so you wanna change the width of your page? by default, the container width is 900px.
+in order to keep things responsive, take your new height, and then subtrack it by 100. use this new number as the 
+"max-width" value below*/
 
             @media only screen and (max-width: 800px) {
                 #flex {
@@ -186,10 +166,8 @@
                     width: 100%;
                 }
 
-                /* the order of the items is adjusted here for responsiveness!
-      since the sidebars would be too small on a mobile device.
-      feel free to play around with the order!
-      */
+/* the order of the items is adjusted here for responsiveness!
+since the sidebars would be too small on a mobile device. feel free to play around with the order!*/
                 main {
                     order: 1;
                 }
