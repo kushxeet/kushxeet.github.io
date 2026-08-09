@@ -141,6 +141,7 @@
 
     .card {/* Add a card effect for articles */
             background-color: white;
+            color:#073a5f
             padding: 20px;
             margin-top: 20px;
             }
