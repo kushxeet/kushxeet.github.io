@@ -9,6 +9,7 @@
         margin: 0;
         background-image: url(images/tile.png);
         background-repeat: repeat;
+        position: fixed;
         color: #073a5f;
         }
     
