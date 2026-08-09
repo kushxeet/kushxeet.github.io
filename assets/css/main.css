@@ -7,9 +7,7 @@
     body { /* default and background */
         font-family: 'Courier New', Courier, monospace;
         margin: 0;
-        background-image: url(images/tile.png);
-        background-repeat: repeat;
-        position: sticky;
+        background-color: #c05d52;
         color: #073a5f;
         }
     
@@ -112,6 +110,7 @@
                 }
     .extra {
             background-color: #5e4e8c;
+            color: #13092D;
             flex: 1;
             padding: 20px;
             order:2; /*The "order" value tells the CSS the order in which to display them.*/
