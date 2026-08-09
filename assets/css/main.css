@@ -128,27 +128,10 @@
             padding: 5px;
             }
 
-    .row {
-        display: flex;
-        flex-wrap: wrap;
-        margin: 0 4px;
-        background-color: #5e4e8c;
-        color: #ffffff;
+    .column {
+        float: left;
+        width: 90%;
         }
-
-
-    .column {/* Create 2 equal columns that sits next to each other */
-            flex: 50%;
-            max-width: 50%;
-            margin: 4px 4px;
-            }
-
-    .column img {
-                margin-top: 8px;
-                vertical-align: middle;
-                justify-content: center;
-                max-width: fit-content;
-                }
 
     .fakeimg {    /* Fake image */
     background-color: #aaa;
