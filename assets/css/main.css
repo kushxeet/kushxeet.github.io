@@ -100,8 +100,7 @@
                 background-image: url(images\Website Header.png);
                 /* this is only for a background image! */
                 /* if you want to put images IN the header, 
-      you can add them directly to the <div id="header"></div> element! */
-               
+      you can add them directly to the <div id="header"></div> element! */       
                 background-size: 100%;
             }
 
@@ -164,7 +163,9 @@
                 padding: 20px;
                 order: 2;
             }
-
+            .extra {
+                background-color: #5e4e8c;
+            }
             /* what's this "order" stuff about??
     allow me to explain!
     if you're using both sidebars, the "order" value
