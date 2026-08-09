@@ -157,7 +157,7 @@
 
             /* this is the color of the main content area,
     between the sidebars! */
-            main {
+            .welcome {
                 background-color: #ffffff;
                 flex: 1;
                 padding: 20px;
@@ -165,6 +165,9 @@
             }
             .extra {
                 background-color: #5e4e8c;
+                flex: 1;
+                padding: 20px;
+                order:2;
             }
             /* what's this "order" stuff about??
     allow me to explain!
